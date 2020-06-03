@@ -7,6 +7,11 @@ body{
     margin:0;
 }
 
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
 .calc{
     width: 400px;
     background-color: black;
