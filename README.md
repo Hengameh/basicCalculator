@@ -1,2 +1,2 @@
-# basicCalculator
-Basic Calculator Project: HTML, CSS &amp; JS
+# Basic Calculator Project:
+Its a basic Calculator project with HTML, CSS &amp; JS
